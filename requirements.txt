@@ -1,0 +1,6 @@
+numpy==1.16.3
+scipy==1.2.1
+scikit-learn
+scikit-surprise==1.0.6
+pandas==0.24.2
+jupyter
